@@ -22,8 +22,7 @@ I'm a Master's student in Mathematical Engineering at Politecnico di Milano, spe
 
 ## 📫 Get in Touch
 - **Email**: danielevozza01@gmail.com
-- **LinkedIn**: [linkedin.com/in/danielevozza](#)
-- **GitHub**: [github.com/danielevozza](#)
+- **LinkedIn**: [https://www.linkedin.com/in/danielevozza](#)
 
 Let's connect and collaborate on exciting projects! 🚀
 
