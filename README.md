@@ -1,7 +1,7 @@
 # Hi there, I'm Daniele Vozza! 👋
 
 ## 🚀 About Me
-I'm a Master's student in Mathematical Engineering at Politecnico di Milano, specializing in Statistical Learning. Passionate about AI, deep learning, and Bayesian statistics, I love working on challenging projects that involve data science and machine learning.
+I'm a Master's student in Mathematical Engineering at Politecnico di Milano, specializing in Statistical Learning. Passionate about AI, deep learning, and innovative technologies, I love working on challenging projects that involve data science and machine learning.
 
 🔭 **Current Focus:**
 - **Deep Learning & AI**: Working with TensorFlow and Keras to develop and optimize neural networks.
@@ -18,6 +18,14 @@ I'm a Master's student in Mathematical Engineering at Politecnico di Milano, spe
 - Machine Learning: Deep Learning, Neural Networks, Bayesian Statistics
 - Mathematics: Probability, Statistics, Dynamical Systems, Optimization
 - Tools: Git, LaTeX, Jupyter
+
+### 🌟 Fun Facts About Me
+
+- 🎞️ Favorite movie: *Interstellar*, C. Nolan
+- 🏋🏼 Passionate about sports: I practice football and calisthenics, and I was a national-level sprinter in the 100m race.
+- 📚 I love reading, especially about science, technology, and philosophy.
+- 📖 Enthusiastic about **LaTeX**, to the point that I published a book of my Numerical Analysis lecture notes.
+- 🏔️ I enjoy spending time in nature, especially hiking and exploring the mountains.
 
 ## 📫 Get in Touch
 - **Email**: danielevozza01@gmail.com
