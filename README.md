@@ -11,8 +11,6 @@ I'm a Master's student in Mathematical Engineering at Politecnico di Milano, spe
 ## 🏆 Projects
 - **[Blood Cell Classification](#)**: Multi-class classification of blood cell images using CNNs.
 - **[Mars Terrain Segmentation](#)**: Semantic segmentation of grayscale Mars terrain images.
-- **[Gender Equality in Science](#)**: A data-driven analysis based on PISA datasets.
-- **[Dynamical Systems & Celestial Trajectories](#)**: Investigating planetary motion through discrete models.
 
 ## 🛠️ Skills
 - Programming: Python (TensorFlow, Keras, NumPy, Pandas, Scikit-Learn), C++, R
