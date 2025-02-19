@@ -24,7 +24,7 @@ I'm a Master's student in Mathematical Engineering at Politecnico di Milano, spe
 - 🎞️ Favorite movie: *Interstellar*, C. Nolan
 - 🏋🏼 Passionate about sports: I practice football and calisthenics, and I was a national-level sprinter in the 100m race.
 - 📚 I love reading, especially about science, technology, and philosophy.
-- 📖 Enthusiastic about **LaTeX**, to the point that I published a book of my Numerical Analysis lecture notes.
+- 📖 Enthusiastic about **LaTeX**, having written several lecture notes for university courses.
 - 🏔️ I enjoy spending time in nature, especially hiking and exploring the mountains.
 
 ## 📫 Get in Touch
