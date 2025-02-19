@@ -6,7 +6,7 @@ I'm a Master's student in Mathematical Engineering at Politecnico di Milano, spe
 🔭 **Current Focus:**
 - **Deep Learning & AI**: Working with TensorFlow and Keras to develop and optimize neural networks.
 - **Bayesian Statistics**: Exploring probabilistic models and their applications.
-- **Discrete Dynamical Models**: Studying the mathematical modeling of complex systems.
+- **Natural Language Processing**: Studying NLP techniques.
 
 ## 🏆 Projects
 - **[Blood Cell Classification](#)**: Multi-class classification of blood cell images using CNNs.
