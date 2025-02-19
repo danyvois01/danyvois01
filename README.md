@@ -11,7 +11,7 @@ I'm a Master's student in Mathematical Engineering at Politecnico di Milano, spe
 ## 🏆 Recent Projects
 - **[Blood Cell Classification](https://github.com/danyvois01/AN2DL-challenge-1)**: Multi-class classification of blood cell images using CNNs.
 - **[Mars Terrain Segmentation](https://github.com/danyvois01/AN2DL-challenge-2)**: Semantic segmentation of grayscale Mars terrain images.
-- - **[MMM Bayesian Statistics](https://github.com/danyvois01/MMM_Bayesian_Project)**: Modeling and analysis of fiber optic sales using Bayesian techniques.
+- **[MMM Bayesian Statistics](https://github.com/danyvois01/MMM_Bayesian_Project)**: Modeling and analysis of fiber optic sales using Bayesian techniques.
 
 ## 🛠️ Skills
 - Programming: Python (TensorFlow, Keras, NumPy, Pandas, Scikit-Learn), C++, R
