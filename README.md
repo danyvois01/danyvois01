@@ -9,8 +9,8 @@ I'm a Master's student in Mathematical Engineering at Politecnico di Milano, spe
 - **Natural Language Processing**: Studying NLP techniques.
 
 ## 🏆 Projects
-- **[Blood Cell Classification](#)**: Multi-class classification of blood cell images using CNNs.
-- **[Mars Terrain Segmentation](#)**: Semantic segmentation of grayscale Mars terrain images.
+- **[Blood Cell Classification](https://github.com/danyvois01/AN2DL-challenge-1)****: Multi-class classification of blood cell images using CNNs.
+- **[Mars Terrain Segmentation](https://github.com/danyvois01/AN2DL-challenge-2)****: Semantic segmentation of grayscale Mars terrain images.
 
 ## 🛠️ Skills
 - Programming: Python (TensorFlow, Keras, NumPy, Pandas, Scikit-Learn), C++, R
@@ -23,4 +23,3 @@ I'm a Master's student in Mathematical Engineering at Politecnico di Milano, spe
 - **LinkedIn**: [https://www.linkedin.com/in/danielevozza](#)
 
 Let's connect and collaborate on exciting projects! 🚀
-
